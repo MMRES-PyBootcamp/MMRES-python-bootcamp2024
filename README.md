@@ -1,10 +1,10 @@
 # BIST-master-python-bootcamp
 
-Contents for the scientific python bootcamp of the BIST master of Multidisciplinary Research in Experimental Sciences (2023 course).
+Contents for the scientific python bootcamp of the BIST master of Multidisciplinary Research in Experimental Sciences (2024 course).
 
-The contents of this year's bootcamp are designed based on [2022](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2022), [2021](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2021), [2020](https://github.com/germannp/BIST-Python-Bootcamp), and [2019](https://github.com/BorjaRequena/BIST-master-python-bootcamp) editions.
+The contents of this year's bootcamp are designed based on [2023](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2023),[2022](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2022), [2021](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2021), [2020](https://github.com/germannp/BIST-Python-Bootcamp), and [2019](https://github.com/BorjaRequena/BIST-master-python-bootcamp) editions.
 
-**IMPORTANT**: Make sure you have the learning environment ready **before** coming to the first class on September 14th. Follow the steps below to 1) install python and 2) prepare the `MMRES-python-bootcamp2023` repository on your machine.
+**IMPORTANT**: Make sure you have the learning environment ready **before** coming to the first class on September 12th. Follow the steps below to 1) install python and 2) prepare the `MMRES-python-bootcamp2024` repository on your machine.
 
 Suggested python installation
 -----------------------------
@@ -24,16 +24,11 @@ If you reached this point, you are up and ready to start the bootcamp next Septe
 Timetable
 ---------
 
-|              | Sept. 14th         | Sept. 18th      | Sept. 21st  | Sept. 28th          | Oct. 5th              | Oct. 9th              |
+|              | Sept. 12th        | Sept. 17th      | Sept. 19th  | Sept. 26th          | Oct. 1st              | Oct. 3rd              |
 |--------------|--------------------|-----------------|-------------|---------------------|-----------------------|-----------------------|
 | 10:00-11:00  | Set up & Intro (I) | Scipy stats (I) | Pandas (II) | Group Work revision | Numpy                 | Group Work revision   |
 | 11:00-12:00  | Intro (II)         | Pandas (I)      | Seaborn     | Scipy stats (II)    | Intro to ML           | Q&A or extra material |
 
-|              | Oct. 16th          | Oct. 17th            | Oct. 18th             | -   | -   | -   |
-|--------------|--------------------|----------------------|-----------------------|-----|-----|-----|
-| 9:00-10:00   | Neural Networks    | Convolutional Layers | Advanced methods:     | -   | -   | -   |
-| 10:00-11:00  | Backpropagation    | Overfitting          | NLP                   | -   | -   | -   |
-| 11:00-12:00  | Exercise           | Regularization       | -                     | -   | -   | -   |
 
 
 Online Resources
