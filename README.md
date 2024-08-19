@@ -24,12 +24,15 @@ If you reached this point, you are up and ready to start the bootcamp next Septe
 Timetable
 ---------
 
-|              | Sept. 12th        | Sept. 17th      | Sept. 19th  | Sept. 26th          | Oct. 1st              | Oct. 3rd              |
-|--------------|--------------------|-----------------|-------------|---------------------|-----------------------|-----------------------|
-| 10:00-11:00  | Set up & Intro (I) | Scipy stats (I) | Pandas (II) | Group Work revision | Numpy                 | Group Work revision   |
-| 11:00-12:00  | Intro (II)         | Pandas (I)      | Seaborn     | Scipy stats (II)    | Group Work            | Q&A or extra material |
+|              | Sept. 12th        | Sept. 17th      | Sept. 19th  | Sept. 26th          |
+|--------------|--------------------|-----------------|-------------|---------------------|
+| 10:00-11:00  | Set up & Intro (I) | Scipy stats (I) | Pandas (II) | Group Work revision | 
+| 11:00-12:00  | Intro (II)         | Pandas (I)      | Seaborn     | Scipy stats (II)    | 
 
-
+|              |Oct. 1st              | Oct. 3rd              |
+|--------------|-----------------------|-----------------------|
+| 12:30-14:00  | Numpy                 | Group Work revision   |
+| 12:30-14:00  |  Group Work            | Q&A or extra material |
 
 Online Resources
 ----------------
