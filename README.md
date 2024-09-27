@@ -29,7 +29,7 @@ Timetable
 | 10:00-11:00  | Set up & Intro (I) | Scipy stats (I) | Pandas (II) | 
 | 11:00-12:00  | Intro (II)         | Pandas (I)      | Seaborn     |  
 
-|              |Sept. 27th          |  Oct. 1st              | Oct. 3rd              |
+|              |Sept. 27th          |  Oct. 3rd              | Oct. 4th              |
 |--------------|--------------------|------------------------|-----------------------|
 | 12:30-14:00  |Group Work          | Numpy                  | Group Work revision   |
 | 12:30-14:00  |Scipy stats (II)    |  Group Work            | Q&A or extra material |
