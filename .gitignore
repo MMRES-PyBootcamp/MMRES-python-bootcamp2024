@@ -1,3 +1,5 @@
 # Jupyter lab related folders
-.ipynb_checkpoints
-.virtual_documents
+*.ipynb_checkpoints
+*.virtual_documents
+*.png
+*.html
