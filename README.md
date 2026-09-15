@@ -7,6 +7,7 @@ The contents of this Boot Camp are designed based on [2023](https://github.com/M
 **IMPORTANT**: Make sure you have the learning environment ready **before** coming to the first class on September 28th. Follow the steps below to 1) install Python and 2) prepare the `MMRES-python-bootcamp` repository on your machine.
 
 Suggested Python installation
+
 We will use [JupyterLab](https://jupyter.org/) (both for theory and hands-on coding) as it is available from work Anaconda.
 -----------------------------
 1. **Distribution**: Please, go to the official [Anaconda website](https://www.anaconda.com/download) and follow downloading and installing instructions. Please, skip the registration process by clicking on "Skip Registration".
