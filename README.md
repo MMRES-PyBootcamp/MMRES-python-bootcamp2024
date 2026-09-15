@@ -4,7 +4,7 @@ Materials for the 2026-2027 Python Boot Camp of the **Barcelona Institute of Sci
 
 The contents of this Boot Camp are designed based on [2023](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2023), [2022](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2022), [2021](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp2021), [2020](https://github.com/germannp/BIST-Python-Bootcamp) and [2019](https://github.com/BorjaRequena/BIST-master-python-bootcamp) editions. From 2024 onward, we decided to keep a single repo (named just `MMRES-python-bootcamp`) for simplicity. If you are interested in previous editions, please browse the [commit history](https://github.com/MMRES-PyBootcamp/MMRES-python-bootcamp/commits/master/).
 
-**IMPORTANT**: Make sure you have the learning environment ready **before** coming to the first class on September 25th. Follow the steps below to 1) install Python and 2) prepare the `MMRES-python-bootcamp` repository on your machine.
+**IMPORTANT**: Make sure you have the learning environment ready **before** coming to the first class on September 28th. Follow the steps below to 1) install Python and 2) prepare the `MMRES-python-bootcamp` repository on your machine.
 
 Suggested Python installation
 -----------------------------
@@ -19,33 +19,33 @@ Suggested repository preparation
 3. Type the command `jupyter lab` (you will see how Jupyter Lab opens a new tab in your default web browser).
 4. Check that you can successfully load the first Jupyter Notebook called `01_Intro.ipynb` just by double-clicking it (use the "File Browser" pane at the left side of the Jupyter Lab tab).
 
-If you reached this point, you are up and ready to start the bootcamp next September 25th.
+If you reached this point, you are up and ready to start the Boot Camp next September 28th.
 
-Timetable
+Timetable (TO BE UPDATED SOON!)
 ---------
-* Sept. 25th:
+* Sept. 28th (Monday):
     + 10:00 - 11:00: Set up & Intro (I)
     + 11:00 - 12:00: Intro (II)
       
-* Sept. 29th:
+* Sept. 30th (Wednesday):
     + 10:00 - 11:00: Scipy stats (I)
     + 11:00 - 12:00: Pandas (I)
   
-* Oct. 2nd:
+* Oct. 1st (Thursday):
     + 10:00 - 11:00: Pandas (II)
     + 11:00 - 12:00: Seaborn
 
-* Oct. 6th:
-    + 10:00 - 11:00: Numpy
-    + 11:00 - 12:00: Group Work (I) 
+* Oct. 5th (Monday):
+    + 12:30 - 13:30: Numpy
+    + 13:30 - 14:30: Group Work (I) 
 
-* Oct. 9th:
+* Oct. 8th (Thursday):
     + 10:00 - 11:00: Scipy stats (II)
     + 11:00 - 12:00: Group Work (II)
 
-* Oct. 22nd
-    + 12:30 - 13:30: Group Work (III)
-    + 13:30 - 14:30: PCA
+* Oct. 13th (Tuesday)
+    + 10:00 - 11:00: Group Work (III)
+    + 11:00 - 12:00: PCA
 
 Online Resources
 ----------------
