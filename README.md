@@ -47,12 +47,12 @@ Timetable (TO BE UPDATED SOON!)
     + 10:00 - 11:00: Group Work (III)
     + 11:00 - 12:00: PCA
 
-Online Resources
+Recommended readings and resources
 ----------------
-* [stackoverflow](https://stackoverflow.com/)
+* [Stack Overflow](https://stackoverflow.com/)
+* [I'm done using AI](https://brettcodes.com/im-done-using-ai/)
 * [Learn X in Y minutes where X = Python](https://learnxinyminutes.com/docs/python/)
 * [The Python Tutorial](https://docs.python.org/3.6/tutorial/index.html)
 * [10 Minutes to Pandas](https://pandas.pydata.org/pandas-docs/stable/10min.html)
-* [SciPy Lecture Notes](http://www.scipy-lectures.org/)
 * [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 * [Pythonic Preambulations](http://jakevdp.github.io/)
