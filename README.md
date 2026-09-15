@@ -8,7 +8,7 @@ The contents of this Boot Camp are designed based on [2023](https://github.com/M
 
 Suggested Python installation
 -----------------------------
-We will use [JupyterLab](https://jupyter.org/) (both for theory and hands-on coding) as it is available from work Anaconda.
+We will use [JupyterLab](https://jupyter.org/) (both for learning Python concepts and to carry on hands-on coding), just as it is available with Anaconda.
 1. **Distribution**: Please, go to the official [Anaconda website](https://www.anaconda.com/download) and follow downloading and installing instructions. Please, skip the registration process by clicking on "Skip Registration".
 2. **Installation**: In order to minimize the problems derived from the cross-platform installation heterogeneity, we recommend to install Anaconda3 with the default options via its [graphical installer](https://www.anaconda.com/docs/getting-started/anaconda/install/windows-gui-install) for Linux, Windows or Mac.
 3. **Packages**: NumPy, Pandas, SciPy, Matplotlib, Seaborn, [Plotnine](https://anaconda.org/conda-forge/plotnine)\*, Scikit-learn, Statsmodels, [bioinfokit](https://anaconda.org/bioconda/bioinfokit)\*. Please note that starred packages are not available after default Anaconda3 setup and thus you should manually install them using the **Anaconda Prompt**. Open an **Anaconda Prompt** command line window in your machine, follow the instructions from the starred packages hyperlinks above, and be patient, Anaconda might take a considerable amount of time to install certain packages (type `y` then `↵` if prompted with `Proceed ([y]/n)?` when installing that starred packages).
